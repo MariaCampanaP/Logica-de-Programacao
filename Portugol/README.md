@@ -22,11 +22,16 @@ Este repositório reúne implementações e conceitos fundamentais de **Lógica 
 
 ## ☕︎ Como Usar
 
-1. Clone o repositório para o seu computador:
+## Como clonar apenas esta pasta
 
-    ```bash
-    git clone https://github.com/MariaCampanaP/Portugol.git
-    ```
+Este repositório contém todas as 6 linguagens estudadas. Se quiser baixar **somente** a pasta "Portugol", use o sparse-checkout do Git:
 
+```bash
+git clone --no-checkout https://github.com/MariaCampanaP/Logica-de-Programacao.git
+cd Logica-de-Programacao
+git sparse-checkout init --cone
+git sparse-checkout set "Portugol"
+git checkout main
+```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B22222&reversal=false&section=footer"/>
 
