@@ -22,6 +22,10 @@ Repositório dedicado aos estudos e exercícios de lógica de programação, reu
 - Visual Studio Code (VS Code);
 - Java JDK.
 
+## ☕︎ Objetivo
+
+Praticar e fixar os fundamentos da lógica de programação: variáveis, estruturas condicionais, laços de repetição, vetores, matrizes e funções, evoluindo gradualmente da lógica estruturada (Portugol) para linguagens de propósito geral (C, C++, Java, C# e Python).
+
 ## ☕︎ Como Usar
 
 ## Como clonar este repositório
